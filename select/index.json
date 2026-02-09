@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Stella!",
+  "base_artist": "澁谷かのん (CV.伊達さゆり)、嵐 千砂都 (CV.岬 なこ)、平安名すみれ (CV.ペイトン尚未)",
+  "createdAt": "2026-02-09T18:19:21.979833Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stella McCartney (feat. Future) - Bonus Track",
+      "artist": "NAV feat. Future",
+      "has_synced": true,
+      "path": "select/01_Stella_McCartney_(feat._Future)_-_Bonus_Track_NAV_feat._Future.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stella McCartney (feat. Future)",
+      "artist": "NAV",
+      "has_synced": true,
+      "path": "select/02_Stella_McCartney_(feat._Future)_NAV.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gotta Get Thru This (Stella Browne vocal mix)",
+      "artist": "Daniel Bedingfield",
+      "has_synced": false,
+      "path": "select/03_Gotta_Get_Thru_This_(Stella_Browne_vocal_mix)_Daniel_Bedingfield.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "She Loves Me (feat. Stella Explorer)",
+      "artist": "DJ Seinfeld",
+      "has_synced": true,
+      "path": "select/04_She_Loves_Me_(feat._Stella_Explorer)_DJ_Seinfeld.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Why? - Live at Stella Polaris",
+      "artist": "Bronski Beat",
+      "has_synced": false,
+      "path": "select/05_Why__-_Live_at_Stella_Polaris_Bronski_Beat.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Why? (live at Stella Polaris)",
+      "artist": "Bronski Beat",
+      "has_synced": false,
+      "path": "select/06_Why__(live_at_Stella_Polaris)_Bronski_Beat.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stella",
+      "artist": "Jam & Spoon",
+      "has_synced": false,
+      "path": "select/07_Stella_Jam_&_Spoon.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stella",
+      "artist": "Jam & Spoon",
+      "has_synced": true,
+      "path": "select/08_Stella_Jam_&_Spoon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Takeaway (feat. Lennon Stella) [Mixed]",
+      "artist": "The Chainsmokers",
+      "has_synced": false,
+      "path": "select/09_Takeaway_(feat._Lennon_Stella)_[Mixed]_The_Chainsmokers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stella Was a Diver and She Was Always Down",
+      "artist": "Interpol",
+      "has_synced": true,
+      "path": "select/10_Stella_Was_a_Diver_and_She_Was_Always_Down_Interpol.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "O Stella",
+      "artist": "PJ Harvey",
+      "has_synced": true,
+      "path": "select/11_O_Stella_PJ_Harvey.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stella Maris",
+      "artist": "Einstürzende Neubauten",
+      "has_synced": true,
+      "path": "select/12_Stella_Maris_Einstürzende_Neubauten.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stella",
+      "artist": "All Time Low",
+      "has_synced": true,
+      "path": "select/13_Stella_All_Time_Low.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stella (Live)",
+      "artist": "All Time Low",
+      "has_synced": true,
+      "path": "select/14_Stella_(Live)_All_Time_Low.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Stella Stai",
+      "artist": "Umberto Tozzi",
+      "has_synced": false,
+      "path": "select/15_Stella_Stai_Umberto_Tozzi.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "05.Stella Stai",
+      "artist": "Umberto Tozzi",
+      "has_synced": false,
+      "path": "select/16_05.Stella_Stai_Umberto_Tozzi.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Afferrare una stella",
+      "artist": "Edoardo Bennato",
+      "has_synced": true,
+      "path": "select/17_Afferrare_una_stella_Edoardo_Bennato.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stella!",
+      "artist": "澁谷かのん(CV.伊達さゆり)、嵐千砂都(CV.岬なこ)、平安名すみれ(CV.ペイトン尚未)",
+      "has_synced": false,
+      "path": "select/pl_01_Stella!_澁谷かのん(CV.伊達さゆり)、嵐千砂都(CV.岬なこ)、平安名すみれ(CV.ペイトン尚未).txt"
+    }
+  ]
+}
